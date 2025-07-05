@@ -1,5 +1,5 @@
 # dblp-to-wikidata
-A tool export information from DBLP to be exported to Wikidata.
+A tool to export information from DBLP to Wikidata.
 
 # Open Refine
 Download and install Open Refine from [here](https://openrefine.org/).
